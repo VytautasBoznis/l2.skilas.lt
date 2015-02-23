@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.model.olympiad.OlympiadManager"/>
+<fullyQualifiedTypeName name="java.util.logging.LogRecord"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.datatables.OfflineTradersTable"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.handler.IUserCommandHandler"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.model.actor.instance.L2PcInstance"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.network.serverpackets.ActionFailed"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.model.TradeList"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.taskmanager.AttackStanceTaskManager"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.network.serverpackets.SystemMessage"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.network.SystemMessageId"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.model.olympiad.Olympiad"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.instancemanager.SevenSignsFestival"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.datatables.SkillTable"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.model.L2Party"/>
+<fullyQualifiedTypeName name="net.sf.l2j.gameserver.handler.usercommandhandlers.OfflineShop"/>
+<fullyQualifiedTypeName name="net.sf.l2j.Config"/>
+</qualifiedTypeNameHistroy>
